@@ -1,65 +1,64 @@
+<h2 align="center">😄Hola, soy Irvyn Xicale Cabrera</h2>
 
-<h1 align="center"><b>😄Hola, soy Irvyn Xicale Cabrera</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=18F78E&center=true&vCenter=true&random=false&width=435&lines=Ing.+Ciencias+de+la+Computaci%C3%B3n;Programador+en+Python;Desarrollador+Frontend;Programador+en+JavaScript;Desarrollador+Backend;Programador+en+Java;Dise%C3%B1ador+de+Bases+de+Datos;Programador+m%C3%B3vil" alt="Typing SVG" /></a>
-</p>
+###
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 25px></picture> **Sobre mí**
+<h2 align="center">Sobre mí</h2>
 
-- Cursando mi último año de universidad. 🙏
-- Me gusta jugar videojuegos (Apex Legends) y dibujar en mis tiempos libres.
-- También me gusta escuchar y ver videos sobre nuevas tecnologías.
-- Me emociona descubrir nuevos retos para mejorar.
-- Puedes ver un poco más en mi [web 👇](https://irvyn2703.github.io/).
+###
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br clear="both">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<p align="center">Recientemente egresado de la universidad 🎓<br>Me apasiona aprender y crecer constantemente, especialmente cuando se trata de nuevos retos.<br>En mis tiempos libres disfruto jugar videojuegos (como Apex Legends 🎮) y dibujar.<br>También me encanta estar al día con las nuevas tecnologías, ya sea escuchando podcasts o viendo videos al respecto.<br>Puedes conocer un poco más sobre mí en mi sitio web  https://irvyn2703.github.io/</p>
 
-<p align="center">
+###
 
-- **Languages**:
-    
-    [![My Skills](https://skillicons.dev/icons?i=js,java,c,python,php)](https://skillicons.dev)
+<h2 align="center">Tecnologías</h2>
 
-    
-- **Front-End Development**:
+###
 
-   [![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
-
-
-- **Back-End Development**:
-
-    [![My Skills](https://skillicons.dev/icons?i=python,nodejs,php)](https://skillicons.dev)
-    
-
-- **herramientas de Software**:
-
-    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
-
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <b> Me puedes contactar en... </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="www.linkedin.com/in/irvyn-xicale-cabrera-b627a1300" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Irvyn Xicale Cabrera-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-
-<li>
-<a href="mailto:irvynxicale@hotmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Correo: irvynxicale@hotmail.com-%2300acee.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
 </div>
+
+###
+
+<h2 align="center">Me puedes contactar en...</h2>
+
+###
+
+<div align="center">
+  <a href="www.linkedin.com/in/irvyn-xicale-cabrera-b627a1300" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=irvyn%20xicale%20cabrera&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:irvynxicale@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=irvynxicale@hotmail.com&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="microsoft-outlook logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=irvyn2703&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=irvyn2703&locale=es&mode=weekly&theme=dracula&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irvyn2703&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
+###
