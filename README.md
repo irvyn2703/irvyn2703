@@ -32,7 +32,7 @@ Fuera del código juego Apex Legends, dibujo y sigo la tecnología nueva en podc
     <img src="assets/card-hoylog.png" width="32%" alt="Hoylog. Pizarrón de avances diarios, con un servidor MCP para Cursor y Claude." />
   </a>
   <a href="https://irvyn2703.github.io/">
-    <img src="assets/card-checkmark.png" width="32%" alt="Checkmark. App de inventario de vehículos seminuevos, de la compra a la venta." />
+    <img src="assets/card-cpdigital.png" width="32%" alt="CP Digital. App de inventario de vehículos seminuevos, de la compra a la venta." />
   </a>
 </p>
 
