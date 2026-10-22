@@ -4,52 +4,29 @@
 
 <p align="center">
   <a href="https://irvyn2703.github.io/">
-    <img src="https://img.shields.io/badge/sitio-irvyn2703.github.io-1b5b50?style=for-the-badge&labelColor=06141b" alt="Sitio web" />
+    <img src="https://img.shields.io/badge/sitio-irvyn2703.github.io-1b5b50?style=flat-square&labelColor=06141b" alt="Sitio web" />
   </a>
   <a href="https://www.linkedin.com/in/irvyn-xicale-cabrera-b627a1300">
-    <img src="https://img.shields.io/badge/LinkedIn-irvyn%20xicale-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-irvyn%20xicale-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:irvynxicale@hotmail.com">
-    <img src="https://img.shields.io/badge/correo-irvynxicale%40hotmail.com-103b3c?style=for-the-badge&logo=microsoft-outlook&logoColor=F2DA91&labelColor=06141b" alt="Correo" />
-  </a>
-</p>
-
-Convierto procesos complejos en productos digitales claros: interfaces, APIs y la operación que los mantiene en pie.
-
-Soy ingeniero en Ciencias de la Computación por la BUAP. Desde septiembre de 2025 lidero el desarrollo de Finloop: módulos financieros, MongoDB, pruebas, revisión de código y despliegues en AWS.
-
-Fuera del código juego Apex Legends, dibujo y sigo la tecnología nueva en podcasts y videos. El recorrido completo está en [mi sitio](https://irvyn2703.github.io/).
-
-<p align="center">
-  <img src="assets/now.png" width="420" alt="Ahora: Tech Lead en Finloop, desde septiembre de 2025. Ingeniero por la BUAP. Puebla, México.">
-</p>
-
-<p align="center">
-  <a href="https://irvyn2703.github.io/">
-    <img src="assets/card-finloop.png" width="560" alt="Finloop. Plataforma fintech de crédito, pagos y estados de cuenta. React, Node, MongoDB y AWS." />
+    <img src="https://img.shields.io/badge/correo-irvynxicale%40hotmail.com-103b3c?style=flat-square&logo=microsoft-outlook&logoColor=F2DA91&labelColor=06141b" alt="Correo" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/irvyn2703/hoylog">
-    <img src="assets/card-hoylog.png" width="560" alt="Hoylog. Pizarrón de avances diarios, con un servidor MCP para Cursor y Claude." />
-  </a>
+  <picture>
+    <source media="(max-width: 760px)" srcset="assets/body-mobile.png">
+    <img src="assets/body-desktop.png" width="100%" alt="Sobre mí. Tech Lead en Finloop, ingeniero por la BUAP, Puebla. Proyectos: Finloop, Hoylog y CP Digital. Stack: React, React Native, TypeScript, Node.js, MongoDB, SQL, AWS, Python y Java.">
+  </picture>
 </p>
 
 <p align="center">
-  <a href="https://irvyn2703.github.io/">
-    <img src="assets/card-cpdigital.png" width="560" alt="CP Digital. App de inventario de vehículos seminuevos, de la compra a la venta." />
-  </a>
-</p>
-
-<h3 align="center">Stack</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,mongodb,mysql,aws,py,java,git&theme=dark" alt="React, TypeScript, JavaScript, Node.js, MongoDB, MySQL, AWS, Python, Java y Git" />
-</p>
-
-<p align="center">
-  <sub>React · React Native · TypeScript · Node.js · MongoDB · SQL · AWS · Python · Java</sub>
+  <a href="https://irvyn2703.github.io/"><strong>Finloop</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/irvyn2703/hoylog"><strong>Hoylog</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://irvyn2703.github.io/"><strong>CP Digital</strong></a>
 </p>
 
 <h3 align="center">Open source</h3>
@@ -58,7 +35,7 @@ Fuera del código juego Apex Legends, dibujo y sigo la tecnología nueva en podc
   <a href="https://auracheck.dev/irvyn2703">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://auracheck.dev/card/irvyn2703.svg?variant=full&theme=dark">
-      <img alt="Alcance open source de Irvyn Xicale Cabrera" src="https://auracheck.dev/card/irvyn2703.svg?variant=full&theme=light">
+      <img alt="irvyn xicale cabrera's open source reach" src="https://auracheck.dev/card/irvyn2703.svg?variant=full&theme=light">
     </picture>
   </a>
 </p>
