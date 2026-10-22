@@ -21,15 +21,7 @@
   </picture>
 </p>
 
-<p align="center">
-  <a href="https://irvyn2703.github.io/"><strong>Finloop</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/irvyn2703/hoylog"><strong>Hoylog</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://irvyn2703.github.io/"><strong>CP Digital</strong></a>
-</p>
-
-<h3 align="center">Open source</h3>
+<h3 align="center">Actividad</h3>
 
 <p align="center">
   <a href="https://auracheck.dev/irvyn2703">
@@ -38,12 +30,6 @@
       <img alt="irvyn xicale cabrera's open source reach" src="https://auracheck.dev/card/irvyn2703.svg?variant=full&theme=light">
     </picture>
   </a>
-</p>
-
-<h3 align="center">Actividad</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irvyn2703&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&locale=es&bg_color=06141b&title_color=9fe8c7&text_color=edf6eb&icon_color=f2da91&border_color=1b5b50" alt="Estadísticas de GitHub" />
 </p>
 
 <p align="center">
